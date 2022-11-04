@@ -1,0 +1,282 @@
+[
+    {
+      "title": "The Hobbit",
+      "review": 9,
+      "author": "J R R Tolkien",
+      "year": 1937,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Lord of the Rings",
+      "review": 10,
+      "author": "J R R Tolkien",
+      "year": 1954,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Promise of Blood",
+      "review": 8.5,
+      "author": "Brian Mclellan",
+      "year": 2013,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Crimson Campaign",
+      "review": 8.5,
+      "author": "Brian Mclellan",
+      "year": 2014,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Autumn Republic",
+      "review": 8,
+      "author": "Brian Mclellan",
+      "year": 2015,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Enlightenment Now",
+      "review": 8,
+      "author": "Steven Pinker",
+      "year": 2018,
+      "genre": "Science",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "A Full Life",
+      "review": 6,
+      "author": "Jimmy Carter",
+      "year": 2015,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Professional Idiot",
+      "review": 6,
+      "author": "Steve-O",
+      "year": 2011,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Bob Marley",
+      "review": 6,
+      "author": "Chris Salewicz",
+      "year": 2009,
+      "genre": "Biography",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Nobody Likes You",
+      "review": 5,
+      "author": "Marc Spitz",
+      "year": 2006,
+      "genre": "Biography",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Seven Deadly Sins",
+      "review": 4,
+      "author": "Corey Taylor",
+      "year": 2011,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Educated",
+      "review": 8,
+      "author": "Tara Westover",
+      "year": 2018,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "review": 7,
+      "author": "Yuval Noah Harari",
+      "year": 2011,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "A Promised Land",
+      "review": 9,
+      "author": "Barack Obama",
+      "year": 2020,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Sins of Empire",
+      "review": 8,
+      "author": "Brian Mclellan",
+      "year": 2017,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Wrath of Empire",
+      "review": 8,
+      "author": "Brian Mclellan",
+      "year": 2018,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Blood of Empire",
+      "review": 6,
+      "author": "Brian Mclellan",
+      "year": 2019,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "For the Record",
+      "review": 7.5,
+      "author": "David Cameron",
+      "year": 2019,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Empire: How Britain Made the Modern World",
+      "review": 8,
+      "author": "Niall Ferguson",
+      "year": 2003,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Promise me, Dad",
+      "review": 7.5,
+      "author": "Joe Biden",
+      "year": 2017,
+      "genre": "Memoir",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Fateful Choices",
+      "review": 8,
+      "author": "Ian Kershaw",
+      "year": 2007,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Cold War: A World History",
+      "review": 8,
+      "author": "Odd Arne Westad",
+      "year": 2017,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Hitler",
+      "review": 9,
+      "author": "Ian Kershaw",
+      "year": 2008,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Prisoners of Geography",
+      "review": 8,
+      "author": "Tim Marshall",
+      "year": 2015,
+      "genre": "Geopolitics",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "Animal Farm",
+      "review": 9,
+      "author": "George Orwell",
+      "year": 1945,
+      "genre": "Dystopian",
+      "type": "Fiction"
+    },
+    {
+      "title": "Nineteen Eighty-four",
+      "review": 7,
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Power of Geography",
+      "review": 7,
+      "author": "Tim Marshall",
+      "year": 2021,
+      "genre": "Geopolitics",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "The Blade Itself",
+      "review": 8,
+      "author": "Joe Abercrombie",
+      "year": 2006,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Before They Are Hanged",
+      "review": 8,
+      "author": "Joe Abercrombie",
+      "year": 2007,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Last Argument of Kings",
+      "review": 8,
+      "author": "Joe Abercrombie",
+      "year": 2008,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Best Served Cold",
+      "review": 8.5,
+      "author": "Joe Abercrombie",
+      "year": 2009,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Heroes",
+      "review": 8,
+      "author": "Joe Abercrombie",
+      "year": 2011,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Red Country",
+      "review": 9.5,
+      "author": "Joe Abercrombie",
+      "year": 2012,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "Dominion",
+      "review": 7.5,
+      "author": "Tom Holland",
+      "year": 2019,
+      "genre": "History",
+      "type": "Non-fiction"
+    },
+    {
+      "title": "The Song of Achilles",
+      "review": 8,
+      "author": "Madeline Miller",
+      "year": 2011,
+      "genre": "Historical Fiction",
+      "type": "Fiction"
+    }
+   ]

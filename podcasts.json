@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Hardcore History",
+        "hosts": "Dan Carlin",
+        "genre": "History",
+        "review": 10
+    },
+    {
+        "title": "Common Sense",
+        "hosts": "Dan Carlin",
+        "genre": "Politics",
+        "review": 7
+    },
+    {
+        "title": "Fall of Civilisations",
+        "hosts": "Paul Cooper",
+        "genre": "History",
+        "review": 6
+    },
+    {
+        "title": "The Rest is Politics",
+        "hosts": "Alastair Campbell, Rory Stewart",
+        "genre": "Politics",
+        "review": 8
+    },
+    {
+        "title": "The Rest is History",
+        "hosts": "Dominic Sandbrook, Tom Holland",
+        "genre": "History",
+        "review": 8
+    },
+    {
+        "title": "The Always Sunny Podcast",
+        "hosts": "Rob McElhenney, Glenn Howerton, Charlie Day, Megan Ganz",
+        "genre": "Television",
+        "review": 7
+    }
+]
