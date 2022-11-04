@@ -32,7 +32,27 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  background-image: linear-gradient(to right, #000000, #262525, #000000);
+  /* border-bottom: solid #034ca9 1px */
+  border-image: linear-gradient(to right, #000000, #034ca9, #39b9ff) 1;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+}
+
+.navbar-brand {
+  color: #39b9ff !important
+}
+
+/* color pallete: */
+/* #39b9ff */
+/* #034ca9 */
+/* #000000 */
+/* #121212 */
+/* #262525 */
