@@ -1,7 +1,7 @@
 [
     {
       "title": "The Hobbit",
-      "review": 9,
+      "review": 8,
       "author": "J R R Tolkien",
       "year": 1937,
       "genre": "Fantasy",
@@ -278,5 +278,38 @@
       "year": 2011,
       "genre": "Historical Fiction",
       "type": "Fiction"
+    },
+    {
+      "title": "A Little Hatred",
+      "review": 8,
+      "author": "Joe Abercrombie",
+      "year": 2019,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Trouble With Peace",
+      "review": 9,
+      "author": "Joe Abercrombie",
+      "year": 2020,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
+      "title": "The Wisdom of Crowds",
+      "review": 8.5,
+      "author": "Joe Abercrombie",
+      "year": 2021,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    }
+    ,
+    {
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "review": 7,
+      "author": "John Carreyrou",
+      "year": 2018,
+      "genre": "Business",
+      "type": "Non-fiction"
     }
    ]
