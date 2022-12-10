@@ -264,12 +264,28 @@
       "type": "Fiction"
     },
     {
+      "title": "A Wizard of Earthsea",
+      "review": 8,
+      "author": "Ursula K. Le Guin",
+      "year": 1968,
+      "genre": "Fantasy",
+      "type": "Fiction"
+    },
+    {
       "title": "Dominion",
       "review": 7.5,
       "author": "Tom Holland",
       "year": 2019,
       "genre": "History",
       "type": "Non-fiction"
+    },
+    {
+      "title": "The Tombs of Atuan",
+      "review": 7.0,
+      "author": "Ursula K. Le Guin",
+      "year": 1970,
+      "genre": "Fantasy",
+      "type": "Fiction"
     },
     {
       "title": "The Song of Achilles",
