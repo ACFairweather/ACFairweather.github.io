@@ -27,7 +27,7 @@ const BookTable = ({ }) => {
   }, []);
   // : { title: string; year: number; author: string; review: number; }
   return (
-    <Table striped bordered hover variant="dark">
+    <Table responsive striped bordered hover variant="dark">
       <thead>
         <tr><th>Title</th><th>Type</th><th>Year</th><th>Author</th><th>Genre</th><th>Review</th></tr>
       </thead>
