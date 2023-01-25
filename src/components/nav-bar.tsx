@@ -25,10 +25,16 @@ const NavBar = (props: Props) => {
                 </Nav>
                 <Nav className='mx--10'>
                     <MDBBtn className='my-1 mx-md-2 mx-auto' style={{ backgroundColor: '#0082ca' }} href='https://www.linkedin.com/in/andy-fairweather-17609220b/'>
-                        <MDBIcon fab icon='linkedin-in' />
+                        <MDBIcon fab size='2x' icon='linkedin-in' />
                     </MDBBtn>
-                    <MDBBtn className='my-1 me-md-5 mx-auto' style={{ backgroundColor: '#6e5494' }} href='https://github.com/ACFairweather'>
-                        <MDBIcon fab icon='github' />
+                    <MDBBtn className='my-1 me-md-2 mx-auto' style={{ backgroundColor: '#6e5494' }} href='https://github.com/ACFairweather'>
+                        <MDBIcon fab size='2x' icon='github' />
+                    </MDBBtn>
+                    <MDBBtn className='my-1 me-md-2 mx-auto' style={{ backgroundColor: '#006400' }} href='https://www.freecodecamp.org/fccd96ca7e9-41af-45d2-8ecf-2568f3e1a04e'>
+                        <MDBIcon fab size='2x' icon='free-code-camp' />
+                    </MDBBtn>
+                    <MDBBtn className='my-1 me-md-5 mx-auto' style={{ backgroundColor: '#d1ebe8' }} href='https://exercism.org/profiles/ACFairweather'>
+                        <a><img height="24" src="exercism_3.png" /></a>
                     </MDBBtn>
                 </Nav>
             </Navbar.Collapse>
@@ -38,3 +44,4 @@ const NavBar = (props: Props) => {
 }
 
 export default NavBar
+// https://www.freecodecamp.org/fccd96ca7e9-41af-45d2-8ecf-2568f3e1a04e
