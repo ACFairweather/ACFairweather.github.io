@@ -41,7 +41,7 @@
   },
   {
     "title": "Enlightenment Now",
-    "review": 8,
+    "review": 9,
     "author": "Steven Pinker",
     "year": 2018,
     "genre": "Science",
@@ -281,7 +281,7 @@
   },
   {
     "title": "The Tombs of Atuan",
-    "review": 7.0,
+    "review": 7,
     "author": "Ursula K. Le Guin",
     "year": 1970,
     "genre": "Fantasy",
@@ -332,6 +332,14 @@
     "review": 7,
     "author": "H. G. Wells",
     "year": 1898,
+    "genre": "Science Fiction",
+    "type": "Fiction"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "review": 9,
+    "author": "Cixin Liu",
+    "year": 2008,
     "genre": "Science Fiction",
     "type": "Fiction"
   }
