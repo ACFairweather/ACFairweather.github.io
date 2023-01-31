@@ -44,4 +44,3 @@ const NavBar = (props: Props) => {
 }
 
 export default NavBar
-// https://www.freecodecamp.org/fccd96ca7e9-41af-45d2-8ecf-2568f3e1a04e
