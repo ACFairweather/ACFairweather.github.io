@@ -394,5 +394,14 @@
     "yearRead": 2022,
     "genre": "Science Fiction",
     "type": "Fiction"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "review": 8,
+    "author": "Alexandre Dumas",
+    "yearPublished": 1844,
+    "yearRead": 2023,
+    "genre": "Adventure",
+    "type": "Fiction"
   }
 ]
