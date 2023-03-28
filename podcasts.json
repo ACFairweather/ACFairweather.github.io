@@ -34,5 +34,17 @@
         "hosts": "Rob McElhenney, Glenn Howerton, Charlie Day, Megan Ganz",
         "genre": "Television",
         "review": 7
+    },
+    {
+        "title": "Battleground: Ukraine",
+        "hosts": "Patrick Bishop, Saul David",
+        "genre": "Politics",
+        "review": 8
+    },
+    {
+        "title": "Leading",
+        "hosts": "Alastair Campbell, Rory Stewart",
+        "genre": "Politics",
+        "review": 7
     }
 ]
