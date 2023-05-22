@@ -27,7 +27,7 @@
         "title": "The Rest is History",
         "hosts": "Dominic Sandbrook, Tom Holland",
         "genre": "History",
-        "review": 8
+        "review": 9
     },
     {
         "title": "The Always Sunny Podcast",
@@ -39,12 +39,18 @@
         "title": "Battleground: Ukraine",
         "hosts": "Patrick Bishop, Saul David",
         "genre": "Politics",
-        "review": 8
+        "review": 6
     },
     {
         "title": "Leading",
         "hosts": "Alastair Campbell, Rory Stewart",
         "genre": "Politics",
         "review": 7
+    },
+    {
+        "title": "Ukraine: The Latest",
+        "hosts": "David Knowles, Dominic Nicholls, Francis Dearnley",
+        "genre": "Politics",
+        "review": 8
     }
 ]

@@ -403,5 +403,23 @@
     "yearRead": 2023,
     "genre": "Adventure",
     "type": "Fiction"
+  },
+  {
+    "title": "Avatar: The Last Airbender – The Rise of Kyoshi",
+    "review": 7,
+    "author": "F.C. Yee",
+    "yearPublished": 2019,
+    "yearRead": 2023,
+    "genre": "Fantasy",
+    "type": "Fiction"
+  },
+  {
+    "title": "One Minute to Midnight: Kennedy, Khrushchev and Castro on the Brink of Nuclear War",
+    "review": 7,
+    "author": "Michael Dobbs",
+    "yearPublished": 2008,
+    "yearRead": 2023,
+    "genre": "History",
+    "type": "Non-fiction"
   }
 ]
